@@ -1,0 +1,46 @@
+<mxfile host="app.diagrams.net">
+  <diagram name="Страница-1" id="etae5Ry6xwmymPpGIeKa">
+    <mxGraphModel dx="1857" dy="604" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="PucTnyuBZHEFj0DcQZan-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
+          <mxGeometry height="60" width="120" x="70" y="70" as="geometry" />
+        </mxCell>
+        <mxCell id="PucTnyuBZHEFj0DcQZan-3" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Владелец продукт" vertex="1">
+          <mxGeometry height="30" width="60" x="100" y="85" as="geometry" />
+        </mxCell>
+        <mxCell id="PucTnyuBZHEFj0DcQZan-4" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
+          <mxGeometry height="60" width="120" x="230" y="70" as="geometry" />
+        </mxCell>
+        <mxCell id="PucTnyuBZHEFj0DcQZan-5" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Аналитик" vertex="1">
+          <mxGeometry height="30" width="60" x="260" y="85" as="geometry" />
+        </mxCell>
+        <mxCell id="PucTnyuBZHEFj0DcQZan-7" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value=".Разработчик" vertex="1">
+          <mxGeometry height="60" width="120" x="390" y="70" as="geometry" />
+        </mxCell>
+        <mxCell id="PucTnyuBZHEFj0DcQZan-9" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;.Участники&lt;/b&gt;&lt;/font&gt;" vertex="1">
+          <mxGeometry height="30" width="180" x="340" y="20" as="geometry" />
+        </mxCell>
+        <mxCell id="PucTnyuBZHEFj0DcQZan-10" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value=".Тестировщик" vertex="1">
+          <mxGeometry height="60" width="120" x="70" y="160" as="geometry" />
+        </mxCell>
+        <mxCell id="PucTnyuBZHEFj0DcQZan-11" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Дизайнер" vertex="1">
+          <mxGeometry height="60" width="120" x="230" y="160" as="geometry" />
+        </mxCell>
+        <mxCell id="PucTnyuBZHEFj0DcQZan-12" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value=".Заказчик" vertex="1">
+          <mxGeometry height="60" width="120" x="390" y="160" as="geometry" />
+        </mxCell>
+        <mxCell id="PucTnyuBZHEFj0DcQZan-14" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Участники: заказчик, владелец и разработчик&lt;div&gt;Процесс: Решают разработать доску поддержки,ресурсы и сроки.Удтверждение состава команды&lt;/div&gt;" vertex="1">
+          <mxGeometry height="195" width="340" x="-40" y="270" as="geometry" />
+        </mxCell>
+        <mxCell id="PucTnyuBZHEFj0DcQZan-13" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;1 Инициация&lt;/b&gt;&lt;/font&gt;" vertex="1">
+          <mxGeometry height="30" width="150" x="30" y="285" as="geometry" />
+        </mxCell>
+        <mxCell id="PucTnyuBZHEFj0DcQZan-15" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="DevOps" vertex="1">
+          <mxGeometry height="60" width="120" x="570" y="70" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
